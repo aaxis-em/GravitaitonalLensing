@@ -6,4 +6,13 @@ This project addresses the need for a clear visualization that demonstrates ligh
 
 ## Gallery
 
-![see](./bh.ppm)
+![see](./bh.png)
+
+```bash
+    g++ src/main.cpp
+    ./a.out
+```
+
+```bash
+    ffmpeg -i bh.ppm bh.png
+```
