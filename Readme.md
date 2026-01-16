@@ -6,6 +6,7 @@ This project addresses the need for a clear visualization that demonstrates ligh
 
 ## Gallery
 
+![see](./Gallery/bh.png)
 ![see](./Gallery/bhcool.png)
 ![see](./Gallery/bh2.png)
 ![see](./Gallery/bhcool.png)
