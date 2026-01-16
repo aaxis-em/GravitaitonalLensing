@@ -6,7 +6,11 @@ This project addresses the need for a clear visualization that demonstrates ligh
 
 ## Gallery
 
-![see](./bh.png)
+![see](./Gallery/bhcool.png)
+![see](./Gallery/bh2.png)
+![see](./Gallery/bhcool.png)
+![see](./Gallery/bhspooky.png)
+![see](./Gallery/bhflashy.png)
 
 ```bash
     g++ src/main.cpp

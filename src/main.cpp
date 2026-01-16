@@ -29,7 +29,7 @@ int main() {
   std::ofstream out("bh.ppm");
   out << "P3\n" << image_width << " " << image_height << "\n255\n";
 
-  std::cerr << "Rendering black hole with colorful accretion disk...\n";
+  std::cerr << "Rendering black hole...\n";
   std::cerr << "Resolution: " << image_width << "x" << image_height << "\n";
   std::cerr << "Camera at: (" << camera_pos.x() << ", " << camera_pos.y()
             << ", " << camera_pos.z() << ")\n";
